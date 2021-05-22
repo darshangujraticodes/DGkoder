@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darshan Gujrati @DGkoder
 - 👀 I’m Avid Book reader and Passionate Koder 
-- 🌱 I’m currently on path to become full stack web developer
+- 🌱 I’m currently on path to become Android App developer
 - 💞️ I’m looking to collaborate with legend "Koders"
 - 📫 Reach out to me through website kreativekoder.in
 
