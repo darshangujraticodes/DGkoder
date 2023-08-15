@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Darshan Gujrati @DGkoder
+- 👋 Hi, I’m Darshan Shailesh Gujrati @DGkoder
 - 👀 I’m Avid Book reader and Passionate Coder 
 - 🌱 I’m currently on path to become Android App developer
 - 💞️ I’m looking to collaborate with legend "Coders"
